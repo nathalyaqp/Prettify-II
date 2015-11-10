@@ -1,0 +1,61 @@
+body{
+	color:#555555;
+	font-family: Futura, 'Trebuchet MS', Arial, sans-serif;
+	font-size: 13px;
+}
+h1, h2, h3, h4{
+	color:#A9268D;
+	font-family: "Oswald", Arial, sans-serif;
+	text-align: center;
+}
+.main-menu{
+	margin-top: 10px;
+}
+.list-nav{
+	text-align: center;
+}
+
+.list-nav li{
+	display: inline-block;
+}
+.list-nav a{
+	display: block;
+	padding: 5px 20px;
+	color: #555;
+	font-family: "Oswald", Arial sans-serif;
+	text-transform: 
+}
+.list-nav a:hover{
+	text-transform: none;
+	background-color: #ECECEC;
+	transform: scale(1.2)
+}
+
+.header-conteiner{
+	background: url("../img/background.jpg") center center;
+	color: #FFF;
+	text-align: center;
+	padding: 80px;
+}
+.header-conteiner{
+	color:#FFF;
+}
+.about-me {
+	margin-top: 20px;
+}
+.about-me .biografia img{
+	float: left;
+	width: 200px;
+	margin-right: 15px;
+	border:1px solid #555;
+	padding: 5px;
+	margin-left: 100px;
+
+
+}
+.about-me .biografia{
+	margin-right: 100px;
+}
+.about-me{
+	background: url("../img/tile1.png");
+}
